@@ -1,7 +1,7 @@
 name: no_glow_scroll
-description: Remove Scroll Grow in scrollviews
-version: 0.0.1
-homepage: 
+description: This widget will remove glow in scrollables like listview, singlechildscrollview etc while overscrolling.
+version: 0.0.2
+homepage: https://github.com/anil-shrestha/no_glow_scroll
 publish_to:
 
 environment:
